@@ -1,0 +1,3 @@
+first we typed jps and checked that all nodes are running
+then we checked for hadoop directory on the path /user/acadgild/hadoop
+and with the third command /user/acadgild/hadoop/hadoop we created a directory named hadoop under hadoop directory
